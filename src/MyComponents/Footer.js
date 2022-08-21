@@ -7,6 +7,7 @@ export const Footer = () => {
             <p className="text-center">
             Copyright &copy; MyTodosList.com
             </p>
+        
         </footer>
     )
 }
