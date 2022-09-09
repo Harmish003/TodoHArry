@@ -31,6 +31,7 @@ export const AddTodo = ({ addTodo }) => {
                 </div>
                 <button type="submit" className="btn btn-sm btn-success">Add Todo</button>
             </form>
+
         </div>
     )
 }
